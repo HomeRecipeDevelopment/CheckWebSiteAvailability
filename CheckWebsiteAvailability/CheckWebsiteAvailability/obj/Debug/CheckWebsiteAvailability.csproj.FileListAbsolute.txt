@@ -1,0 +1,2 @@
+D:\Programming\CheckWebsiteAvailability C#\CheckWebsiteAvailability\CheckWebsiteAvailability\bin\Debug\CheckWebsiteAvailability.exe.config
+D:\Programming\CheckWebsiteAvailability C#\CheckWebsiteAvailability\CheckWebsiteAvailability\obj\Debug\CheckWebsiteAvailability.csprojResolveAssemblyReference.cache
