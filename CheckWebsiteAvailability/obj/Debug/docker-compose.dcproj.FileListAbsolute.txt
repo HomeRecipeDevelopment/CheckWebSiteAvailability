@@ -1,0 +1,6 @@
+D:\Programming\CheckWebsiteAvailability\CheckWebsiteAvailability\bin\Debug\CheckWebsiteAvailability.exe
+D:\Programming\CheckWebsiteAvailability\CheckWebsiteAvailability\bin\Debug\CheckWebsiteAvailability.pdb
+D:\Programming\CheckWebsiteAvailability\CheckWebsiteAvailability\bin\Debug\CheckWebsiteAvailability.exe.config
+D:\Programming\CheckWebsiteAvailability\CheckWebsiteAvailability\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Programming\CheckWebsiteAvailability\CheckWebsiteAvailability\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Programming\CheckWebsiteAvailability\CheckWebsiteAvailability\obj\Debug\docker-compose.dcproj.CopyComplete

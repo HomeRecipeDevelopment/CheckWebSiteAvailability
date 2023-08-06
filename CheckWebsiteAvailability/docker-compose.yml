@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  checkwebsiteavailability:
+    image: ${DOCKER_REGISTRY-}checkwebsiteavailability
+    build:
+      context: .\CheckWebsiteAvailability
+      dockerfile: Dockerfile

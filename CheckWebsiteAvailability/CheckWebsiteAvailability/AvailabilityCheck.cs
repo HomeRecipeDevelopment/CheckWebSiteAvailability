@@ -48,7 +48,7 @@ namespace CheckWebsiteAvailability
         {
             var senderEmail = new MailAddress("noreply@egyptiancurebank.com", "منظومة بنك الشفاء المصرى");
             var receiverEmail = new MailAddress("m.abdullah@egyptiancurebank.com", "Receiver");
-            var password = "cure123456789";
+            var password = "123456789";
             var sub = "WebSite Is Down";
             StringBuilder body = new StringBuilder();
             body.Append("<html> <head> <title>One Of WebSites Is Down Now</title> </head> <body style='background-color: #ccfff9;'>");

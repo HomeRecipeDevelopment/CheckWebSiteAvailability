@@ -1,0 +1,7 @@
+services:
+  checkwebsiteavailability:
+    build:
+      context: D:\Programming\CheckWebsiteAvailability\CheckWebsiteAvailability\CheckWebsiteAvailability
+      dockerfile: Dockerfile
+    image: checkwebsiteavailability
+version: '3.4'
